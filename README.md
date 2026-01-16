@@ -1,4 +1,4 @@
-# 🚗 Urban Routes – Requirements Analysis & Test Design
+# Urban Routes – Requirements Analysis & Test Design
 
 ## 🗓️ Project Details
 
